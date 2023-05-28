@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using xNet;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
-namespace NasaPaint_Offcial
+namespace YourNameSpace
 {
     public class RequestXNet
     {
