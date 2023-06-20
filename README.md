@@ -14,5 +14,5 @@
 
 ## Support
 
-Cần hỗ trợ? Liên hệ với mình qua [@Facebook](https://www.facebook.com/VTMH.Official) .
+Cần hỗ trợ? Liên hệ với mình qua [Facebook](https://www.facebook.com/VTMH.Official) .
 
