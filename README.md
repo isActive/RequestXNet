@@ -1,7 +1,7 @@
 ## Authors
 
 - [@isActive](https://github.com/isActive)
-- [@Võ Thanh Minh Hiền](https://www.facebook.com/VTMH.Official/)
+- [Võ Thanh Minh Hiền](https://www.facebook.com/VTMH.Official/)
 ## Features
 
 - Get / Post 
